@@ -1,0 +1,3 @@
+riadok 1
+riadok 7
+riadok 3
